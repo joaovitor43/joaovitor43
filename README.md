@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp; Communication Network Engineering (in progress)\
+🎓 &nbsp; Engenharia de Redes de comunicação(em progresso)\
 📚 &nbsp; Tentando terminar o curso.
 
 ## 🛠 &nbsp;Tech Stack
