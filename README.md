@@ -9,7 +9,6 @@
 - Languages &nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/c++-05122A?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
-![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat&logo=VHDL)&nbsp;
 
 - Workflow Plataforms &nbsp;
   ![Jira](https://img.shields.io/badge/Jira-05122A?style=flat&logo=Jira)
