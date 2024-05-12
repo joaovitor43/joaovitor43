@@ -26,4 +26,4 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:jvitor3200@gmail.com"><img src="https://img.shields.io/badge/-jvitor3200@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:joao.vitor.oliv.fer@gmail.com"><img src="https://img.shields.io/badge/-joao.vitor.oliv.fer@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
