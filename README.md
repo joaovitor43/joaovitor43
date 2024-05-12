@@ -3,7 +3,7 @@
 ## 👩🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp; Engenharia de Redes de comunicação(em progresso)\
-📚 &nbsp; Tentando terminar o curso.
+📚 &nbsp; Gosto por programação.
 
 ## 🛠 &nbsp;Tech Stack
 - Languages &nbsp;
